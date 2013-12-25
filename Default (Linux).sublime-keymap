@@ -1,0 +1,4 @@
+[
+	{"keys": ["alt+l"], "command": "target_error"},
+	{"keys": ["alt+m"], "command": "go_to_moments"}
+]
