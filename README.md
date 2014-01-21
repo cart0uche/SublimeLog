@@ -1,6 +1,9 @@
 SublimeLog
 ==========
 
+WORK IN PROGRESS
+================
+
 Installation
 ------------
 
